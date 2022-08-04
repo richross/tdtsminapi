@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZFaDYBNxKQIFqSSDOAJcYxP4kZJnzWfduCMECnU+4tg=",
+  "Source": "TdtsAPI",
+  "BasePath": "_content/TdtsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
